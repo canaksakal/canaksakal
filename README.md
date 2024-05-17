@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Front-End Developer</h3>
 
 - 📫 How to reach me **aksakalcan97@gmail.com**
 
